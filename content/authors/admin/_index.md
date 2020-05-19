@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Muhammad Atif Qureshi
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Technological University Dublin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, explainable AI, and text/data analytics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Machine Learning
+- Business Analytics
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Joint PhD in Computer Science & Informatics
+    institution:  National University of Ireland, Galway &  University of Milano-Bicocca
+    year: 2015
+  - course: MS in Computer Science
+    institution: Korea Advanced Institute of Science and Technology
+    year: 2011
+  - course: BS in Computer Science
+    institution: University of Karachi
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:muhammadatif.qureshi@tudublin.ie'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/matifq
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=kVYjV4sAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/matifq
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Muhammad Atif Qureshi, based in TU Dublin, is a lecturer in Data Analytics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before this appointment, Atif has contributed to EU, EI, and SFI funded projects during his different post-doctoral positions at Adapt-TCD, CeADAR-UCD, and Insight-UCD, respectively. One of his contributions is licensed to a leading media organisation of Ireland in the space of social media analytics. Among his research contributions, one of his research is referenced on Wikipedia’s Word Embedding article as contributions in the area of Explainable AI. Atif has authored over 40+ peer-review research publications.
+
+Atif’s research focuses on Machine Learning, Explainable AI, Text Mining, Information Retrieval, Predictive Maintenance, Applications of Knowledge Graphs and Social Media Analytics. Atif is passionate about the tight coupling of business and analytics to generate value and impact. Within the team, he believes in the idea of happy faces through a friendly and approachable environment.
