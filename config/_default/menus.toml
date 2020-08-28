@@ -8,6 +8,16 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "Demo Projects"
+  url = "#projects-demo"
+  weight = 25
+
+[[main]]
+  name = "Funded Positions"
+  url = "#positions"
+  weight = 28
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
@@ -22,6 +32,7 @@
 #   name = "Publications"
 #   url = "#featured"
 #   weight = 40
+
 
 [[main]]
   name = "Contact"
