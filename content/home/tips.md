@@ -76,4 +76,4 @@ subtitle = ""
 - [Book: A PhD Is Not Enough!](https://www.amazon.co.uk/PhD-Not-Enough-Survival-Science/dp/0465022227) --
 Peter J. Feibelman
 - [The Status of Postdoctoral Researchers](http://web.mit.edu/fnl/volume/262/sive_etal.html) -- MIT
-- [echnological universities: are they really such a good idea?](https://www.irishtimes.com/news/education/technological-universities-are-they-really-such-a-good-idea-1.2567757) -- Peter McGuire, The Irish Times
+- [Technological universities: are they really such a good idea?](https://www.irishtimes.com/news/education/technological-universities-are-they-really-such-a-good-idea-1.2567757) -- Peter McGuire, The Irish Times
