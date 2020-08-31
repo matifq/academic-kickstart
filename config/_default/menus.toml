@@ -23,6 +23,11 @@
   url = "#news"
   weight = 29
 
+[[main]]
+  name = "Tips"
+  url = "#tips"
+  weight = 45
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
