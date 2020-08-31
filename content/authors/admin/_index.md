@@ -48,9 +48,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/matifq
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=kVYjV4sAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/m-atif-qureshi-229a4929/
 - icon: github
   icon_pack: fab
   link: https://github.com/matifq

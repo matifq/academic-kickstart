@@ -18,6 +18,11 @@
   url = "#positions"
   weight = 28
 
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 29
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
