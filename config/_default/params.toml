@@ -93,7 +93,7 @@ address = {street = "Aungier St, Dublin, D02 HW71", city = "Dublin", country = "
 coordinates = {latitude = "53.338563", longitude = "-6.266602"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building and take the stairs to Office 3042 on Floor 3"
+directions = "Enter Building and take the stairs to Office 3024 on Floor 3"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
