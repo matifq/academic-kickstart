@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include machine learning, explainable AI, and text/data analytics.
 
 interests:
+- Explainable Artificial Intelligence
 - Machine Learning
-- Business Analytics
-- Information Retrieval
+- Business Analytics Application
+- Information Retrieval & Natural Language Processing
 
 education:
   courses:
@@ -75,6 +76,8 @@ user_groups:
 
 Dr Muhammad Atif Qureshi, based in TU Dublin, is a lecturer in Data Analytics.
 
-Before this appointment, Atif has contributed to EU, EI, and SFI funded projects during his different post-doctoral positions at Adapt-TCD, CeADAR-UCD, and Insight-UCD, respectively. One of his contributions is licensed to a leading media organisation of Ireland in the space of social media analytics. Among his research contributions, one of his research is referenced on Wikipedia’s Word Embedding article as contributions in the area of Explainable AI. Atif has authored over 40+ peer-review research publications.
+Dr M. Atif Qureshi is a lecturer in Data Analytics and a research leader at Explainable Analytics Group which focuses on bridging business and technology problems. Atif has contributed to the various projects funded by SFI, IRC, EI, and EU as a principal investigator and technical lead. He is also a collaborator with ADAPT and CeADAR. 
 
-Atif’s research focuses on Machine Learning, Explainable AI, Text Mining, Information Retrieval, Predictive Maintenance, Applications of Knowledge Graphs and Social Media Analytics. Atif is passionate about the tight coupling of business and analytics to generate value and impact. Within the team, he believes in the idea of happy faces through a friendly and approachable environment.
+His research interests are explainable artificial intelligence, natural language processing, machine learning, disinformation space, and social media and business analytics. 
+Atif is passionate about applied research and has authored over 40+ peer-review research publications and licensed an outcome to a leading media organisation in Ireland in the space of social media analytics. One of his research is a pioneer contribution in Explainable AI discourse and Word Embedding and is cited by Wikipedia under "Word embedding" and "Explainable artificial intelligence" articles.
+

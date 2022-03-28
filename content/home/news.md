@@ -67,4 +67,5 @@ subtitle = ""
  css_class = ""
 +++
 
-- 2020, "RCES: Rapid Cues Exploratory Search Using Taxonomies For COVID-19" approved under Epidemiology, modelling and data platforms https://www.sfi.ie/research-news/news/covid-19-research-ireland/
+- 2021, "[InEire: Towards an Inclusive Ireland through an Economic Assessment of Anti-Immigrant Sentiment in Ireland](https://www.tudublin.ie/research/news/tu-dublin-researcher-dr-muhammad-atif-qureshi-awarded-irc-funding-.html)". Follow [InEire@Twitter](https://twitter.com/IneireP)
+- 2020, "[RCES: Rapid Cues Exploratory Search Using Taxonomies For COVID-19](https://www.sfi.ie/research-news/news/covid-19-research-ireland/)" approved under Epidemiology, modelling and data platforms

@@ -67,6 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-If you are looking for a PhD position or Post doctoral position visit following links
+If you are looking for a MS/PhD/Post-doctoral position visit following links
   - http://research.ie/funding/ (in Sept. each year positions get open)
-  - https://elite-fellowship.eu/people/#supervisors
+  - [ML-Labs](https://www.ml-labs.ie/); I am part of the research leadership team (only PhD position)
+  - [TU Dublin Scholarship Programmes](https://www.tudublin.ie/research/postgraduate-research/prospective-students/fees-scholarships/)
+  - Follow my [LinkedIn](https://www.linkedin.com/in/m-atif-qureshi-229a4929/) and [Twitter](https://twitter.com/matifq)
