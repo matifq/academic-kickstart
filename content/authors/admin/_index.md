@@ -74,10 +74,10 @@ user_groups:
 - Visitors
 ---
 
-Dr Muhammad Atif Qureshi, based in TU Dublin, is a lecturer in Data Analytics.
+Dr M. Atif Qureshi is a lecturer in Data Analytics and a research leader at Explainable Analytics Group, which focuses on bridging business and technology problems. 
 
-Dr M. Atif Qureshi is a lecturer in Data Analytics and a research leader at Explainable Analytics Group which focuses on bridging business and technology problems. Atif has contributed to the various projects funded by SFI, IRC, EI, and EU as a principal investigator and technical lead. He is also a collaborator with ADAPT and CeADAR. 
+Atif has contributed to the various projects funded by SFI, IRC, EI, and EU as a principal investigator and technical lead. He is also a research collaborator with ADAPT and CeADAR. 
 
-His research interests are explainable artificial intelligence, natural language processing, machine learning, disinformation space, and social media and business analytics. 
-Atif is passionate about applied research and has authored over 40+ peer-review research publications and licensed an outcome to a leading media organisation in Ireland in the space of social media analytics. One of his research is a pioneer contribution in Explainable AI discourse and Word Embedding and is cited by Wikipedia under "Word embedding" and "Explainable artificial intelligence" articles.
+His research interests are explainable artificial intelligence, natural language processing, medicinal information retrieval, machine learning, disinformation space, and social media. Atif is passionate about applied research and has authored over 40+ peer-review research publications and licensed an outcome to a leading media organisation in Ireland in social media analytics. One of his research is a pioneer contribution in Explainable AI discourse and Word Embedding and is cited on Wikipedia under "Word embedding" and "Explainable artificial intelligence" articles.
+
 
