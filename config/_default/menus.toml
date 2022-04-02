@@ -14,13 +14,13 @@
   weight = 25
 
 [[main]]
-  name = "Funded Positions"
-  url = "#positions"
+  name = "Fellowships"
+  url = "#fellowships"
   weight = 28
 
 [[main]]
-  name = "News"
-  url = "#news"
+  name = "Grants"
+  url = "#grants"
   weight = 29
 
 [[main]]

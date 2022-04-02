@@ -67,13 +67,24 @@ subtitle = ""
  css_class = ""
 +++
 
-- [What is PhD in pictures?](http://matt.might.net/articles/phd-school-in-pictures/) -- Matthew Might
-- [Useful Things to Know About Ph.D. Thesis Research](http://www.eecs.harvard.edu/htk/phdadvice/) -- H.T. Kung of Harvard
-- [How to Write a Paper](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf) -- University of Cambridge
-- [Writing a PhD research proposal](https://www.exeter.ac.uk/media/universityofexeter/webteam/shared/postgraduate/pdfs/A_Guide_to_Writing_your_PhD_Proposal.pdf) -- University of Exeter
-- [What is Business Analytics](https://www.microstrategy.com/us/resources/introductory-guides/business-analytics-everything-you-need-to-know) -- MicroStrategy
-- [The Researchers’ Bible - How to survive a PhD](https://www.scss.tcd.ie/Owen.Conlan/docs/researchers_bible.pdf) -- Alan Bundy et al
-- [Book: A PhD Is Not Enough!](https://www.amazon.co.uk/PhD-Not-Enough-Survival-Science/dp/0465022227) --
-Peter J. Feibelman
-- [The Status of Postdoctoral Researchers](http://web.mit.edu/fnl/volume/262/sive_etal.html) -- MIT
-- [Technological universities: are they really such a good idea?](https://www.irishtimes.com/news/education/technological-universities-are-they-really-such-a-good-idea-1.2567757) -- Peter McGuire, The Irish Times
+- PhD
+  - [What is PhD in pictures?](http://matt.might.net/articles/phd-school-in-pictures/) -- Matthew Might
+  - [Useful Things to Know About Ph.D. Thesis Research](http://www.eecs.harvard.edu/htk/phdadvice/) -- H.T. Kung of Harvard
+  - [Writing a PhD research proposal](https://www.exeter.ac.uk/media/universityofexeter/webteam/shared/postgraduate/pdfs/A_Guide_to_Writing_your_PhD_Proposal.pdf) -- University of Exeter
+  - [The Researchers’ Bible - How to survive a PhD](https://www.scss.tcd.ie/Owen.Conlan/docs/researchers_bible.pdf) -- Alan Bundy et al
+
+- Writing
+  - [How to Write a Paper](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf) -- University of Cambridge
+
+- Post PhD/Postdoc
+  - [The Status of Postdoctoral Researchers](http://web.mit.edu/fnl/volume/262/sive_etal.html) -- MIT
+  - [What are the benefits of pursuing a postdoc after getting a PhD?](https://www.quora.com/What-are-the-benefits-of-pursuing-a-postdoc-after-getting-a-PhD) -- Quroa
+  - [Book: A PhD Is Not Enough!](https://www.amazon.co.uk/PhD-Not-Enough-Survival-Science/dp/0465022227) -- Peter J. Feibelman
+
+- Research Impact
+  - [What is research impact?](https://www.york.ac.uk/staff/research/research-impact/impact-definition/) -- University of York
+  - [Research Impact](https://www.sfi.ie/funding/award-management/research-impact/) -- Science Foundation Ireland
+
+- Related Extra
+  - [What is Business Analytics](https://www.microstrategy.com/us/resources/introductory-guides/business-analytics-everything-you-need-to-know) -- MicroStrategy
+  - [Technological universities: are they really such a good idea?](https://www.irishtimes.com/news/education/technological-universities-are-they-really-such-a-good-idea-1.2567757) -- Peter McGuire, The Irish Times
