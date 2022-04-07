@@ -68,6 +68,7 @@ subtitle = ""
 +++
 
 Some demos (use google to look for published articles)
-  - [Lit@EVE Demonstration Video](https://youtu.be/WPcgm8IFPG4)
-  - [TwitterCracy Demo](https://youtu.be/Y3jIajEYSX8)
+  - [RCES: Rapid Cues Exploratory Search Using Taxonomies For COVID-19](https://youtu.be/67yCmwWAjN8)
+  - [Lit@EVE: Explainable Recommendation Engine for Authors/Books](https://youtu.be/WPcgm8IFPG4)
+  - [TwitterCracy: Exploratory Monitoring of Twitter Streams for the 2016 U.S. Presidential Election Cycle](https://youtu.be/Y3jIajEYSX8)
   - [VHI: Valve Health Identification for the Maintenance of Subsea Industrial Equipment](https://youtu.be/dueTEovxHqI)
